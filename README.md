@@ -9,15 +9,13 @@
 ### Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpforol&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 ------------
 ### Find me on
-
-- [Gmail]
 - [LinkedIn]
 
-[//]: #
 
-   [Gmail]: <jpforol@gmail.com>
+[//]: #
    [LinkedIn]: <https://www.linkedin.com/in/jpforol/>
 
 
