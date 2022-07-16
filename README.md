@@ -1,6 +1,25 @@
-### Hi there 👋
+## Hi there 👋 My name is João Pedro!
+------------
 
-![João Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpforol&show_icons=true&theme=radical)
+- 🔭 I’m currently working with Function Point Analysis.
+- 🌱 I’m currently learning Artificial Intelligence, Data Science, Machine Learning.
+- 💬 If you have any questions, just ask me.
+
+------------
+### Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpforol&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+------------
+### Find me on
+
+- [Gmail]
+- [LinkedIn]
+
+[//]: #
+
+   [Gmail]: <jpforol@gmail.com>
+   [LinkedIn]: <https://www.linkedin.com/in/jpforol/>
+
 
 <!--
 **jpforol/jpforol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
