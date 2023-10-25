@@ -1,8 +1,8 @@
 ## Hi there 👋 My name is João Pedro!
 ------------
 
-- 🔭 I’m currently working with Function Point Analysis.
 - 🌱 I’m currently learning Artificial Intelligence, Data Science, Machine Learning.
+- 👯 I’m looking to collaborate on Data Science projects.
 - 💬 If you have any questions, just ask me.
 
 ------------
