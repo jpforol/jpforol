@@ -7,13 +7,11 @@
 ------------
 ### Skills
 <div>
-   <a href="">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpforol"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpforol&langs_count=8"/>
+   <a href="https://www.linkedin.com/in/jpforol/">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpforol&show_icons=true&theme-dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpforol&langs_count=16&layout=compact&theme-dracula"/>
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpforol)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpforol&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-------------
 ### Find me on
 - [LinkedIn]
 
