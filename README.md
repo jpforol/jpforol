@@ -15,10 +15,10 @@
 ### Experience with
 <div style="display: inline_block"><br>
    <img align="center" alt="JP-Azure" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
-   <img align="center" alt="JP-Databricks" height="60" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSr4OlWAZQtgcbMcMUgwn0ONYIJNgADBTFueVIjYPG2DzNH7z86vESUIoeIqoAD_19pSg&usqp=CAU">
+   <img align="center" alt="JP-Databricks" height="60" width="60" src="https://w7.pngwing.com/pngs/496/62/png-transparent-databricks-logo-thumbnail-tech-companies-thumbnail.png">
    <img align="center" alt="JP-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
    <img align="center" alt="JP-R" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-   <img align="center" alt="JP-SQL" height="60" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH21nPJ_94ChdhdwJjKEIt7CSoxX9C5B32Llz7DpfssQ&s">   
+   <img align="center" alt="JP-SQL" height="60" width="60" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png">   
 </div>
 
 
