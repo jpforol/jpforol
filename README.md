@@ -14,11 +14,11 @@
 
 ### Experience with
 <div style="display: inline_block"><br>
-   <img align="center" alt="JP-Azure" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
-   <img align="center" alt="JP-Databricks" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_169299.png">
-   <img align="center" alt="JP-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-   <img align="center" alt="JP-R" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-   <img align="center" alt="JP-SQL" height="60" width="60" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png">   
+   <img align="center" alt="JP-Azure" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
+   <img align="center" alt="JP-Databricks" height="60" width="70" src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Azure-Databricks-900x0.png">
+   <img align="center" alt="JP-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+   <img align="center" alt="JP-R" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
+   <img align="center" alt="JP-SQL" height="60" width="70" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png">   
 </div>
 
 
