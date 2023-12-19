@@ -1,9 +1,10 @@
 ## Hi there 👋 My name is João Pedro!
-------------
 
-- 🌱 I’m currently learning Artificial Intelligence, Data Science, Machine Learning.
+- 🌱 I’m currently learning Artificial Intelligence.
 - 👯 I’m looking to collaborate on Data Science projects.
 - 💬 If you have any questions, just ask me.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpforol)](https://github.com/anuraghazra/github-readme-stats)
 
 ------------
 ### Skills
