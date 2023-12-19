@@ -8,7 +8,7 @@
 ### Skills
 <div>
    <a href="https://www.linkedin.com/in/jpforol/">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpforol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpforol&show_icons=true&theme=dracula&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpforol&langs_count=16&layout=compact&theme=dracula"/>
 </div>
 
